@@ -2,6 +2,10 @@
 jupyterlite-core==0.4.1
 jupyterlab~=4.2.5
 notebook~=7.2.2
+numpy==1.19.5
+matplotlib==3.3.4
+pandas==1.2.0
+seaborn==0.9.0
 
 
 # Python kernel (optional)

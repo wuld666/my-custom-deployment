@@ -1,3 +1,7 @@
+# Badges for my README
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wuld666/my-custom-deployment/HEAD)
+
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)

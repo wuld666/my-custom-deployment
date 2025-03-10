@@ -1,6 +1,6 @@
 # Badges for my README
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wuld666/my-custom-deployment/HEAD)
+[[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wuld666/my-custom-deployment/HEAD)](https://mybinder.org/v2/gh/wuld666/my-custom-deployment/HEAD?urlpath=%2Fdoc%2Ftree%2Fcontent%2FAssignment.ipynb)
 
 # JupyterLite Demo
 

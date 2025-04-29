@@ -1,5 +1,5 @@
 # Badges for my README
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fwuld666%2Fmy-custom-deployment/HEAD?urlpath=%2Fblob%2Fmain%2Fcontent%2FITSS4382.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fwuld666%2Fmy-custom-deployment/HEAD?urlpath=content%2FITSS4382.ipynb)
 
 # JupyterLite Demo
 
